@@ -1,0 +1,7 @@
+4
+Salary 8000
+Food -1800
+Transport -900
+Freelance
+2500
+3
